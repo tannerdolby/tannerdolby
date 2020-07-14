@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm **Tanner**. A _[developer](https://codepen.io/tannerdolby)_ and mathematician. 
+I'm **Tanner**. A [developer](https://codepen.io/tannerdolby) and mathematician. 
 
 📫 How to reach me: dolb.tanner@gmail.com or over on twitter [@tannerdolby](https://twitter.com/tannerdolby)
 
@@ -12,9 +12,7 @@ I'm **Tanner**. A _[developer](https://codepen.io/tannerdolby)_ and mathematicia
 
 🤔 I’m looking for help with becoming more informed about #11ty
 
-💬 Ask me about anything I've made on [Codepen.io](https://codepen.io/tannerdolby) or anything you'd like
-
-😄 Pronouns: He/Him
+💬 Ask me about projects I've made on [Codepen.io](https://codepen.io/tannerdolby) or anything you'd like
 
 ⚡ Fun fact: I play the piano 🎹
 
