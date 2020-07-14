@@ -1,12 +1,12 @@
-[![ghost](https://user-images.githubusercontent.com/48612525/87385842-f5803900-c553-11ea-86d4-dcf3fb3d9446.gif)](https://twitter.com/tannerdolby)
+[![My pixel ghost =)](https://user-images.githubusercontent.com/48612525/87385842-f5803900-c553-11ea-86d4-dcf3fb3d9446.gif)](https://twitter.com/tannerdolby)
 
 ### Hi there 👋
 
-I'm **Tanner**. A <i><a href="https://codepen.io/tannerdolby" target="_blank">developer</i></a> and mathematician. 
+I'm **Tanner**. A _[developer](https://codepen.io/tannerdolby)_ and mathematician. 
 
 📫 How to reach me: dolb.tanner@gmail.com or over on twitter [@tannerdolby](https://twitter.com/tannerdolby)
 
-🔭 I’m currently working on building ReactJS apps and animation ✨
+🔭 I’m currently working on building ReactJS apps and anything animation/art related ✨
 
 👯 I’m looking to collaborate on web applications (mainly front-end) or any design/animation projects
 
