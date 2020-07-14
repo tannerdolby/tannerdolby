@@ -1,16 +1,20 @@
+[![ghost](https://user-images.githubusercontent.com/48612525/87385842-f5803900-c553-11ea-86d4-dcf3fb3d9446.gif)](https://twitter.com/tannerdolby)
+
 ### Hi there 👋
 
-<!--
-**tannercd/tannercd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Tanner**. A <i><a href="https://codepen.io/tannerdolby" target="_blank">developer</i></a> and mathematician. 
 
-Here are some ideas to get you started:
+📫 How to reach me: dolb.tanner@gmail.com or over on twitter [@tannerdolby](https://twitter.com/tannerdolby)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on building ReactJS apps and animation ✨
+
+👯 I’m looking to collaborate on web applications (mainly front-end) or any design/animation projects
+
+🤔 I’m looking for help with becoming more informed about #11ty
+
+💬 Ask me about anything I've made on [Codepen.io](https://codepen.io/tannerdolby) or anything you'd like
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I play the piano 🎹
+
