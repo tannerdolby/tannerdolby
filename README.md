@@ -1,7 +1,7 @@
 ### Hi there 👋
 <a href="https://twitter.com/tannerdolby"><img width="1080" alt="githubBanner" src="https://user-images.githubusercontent.com/48612525/87487249-fff11000-c5f1-11ea-9b16-20e2ce2d9f10.png"></a>
 
-I'm a creative web [developer](https://codepen.io/tannerdolby) and mathematician. 
+I'm **Tanner** a creative web [developer](https://codepen.io/tannerdolby) 👨‍💻 
 
 You can reach me via dolb.tanner@gmail.com or over on Twitter [@tannerdolby](https://twitter.com/tannerdolby)
 
