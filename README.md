@@ -1,7 +1,7 @@
 # Hi there, I'm Tanner 👋👨‍💻
 <a href="https://twitter.com/tannerdolby"><img width="1080" alt="githubBanner" src="https://user-images.githubusercontent.com/48612525/87487249-fff11000-c5f1-11ea-9b16-20e2ce2d9f10.png"></a>
 
-I'm a web developer with a passionate for contributing to a more beautiful web 🎨 
+I'm a developer with a passionate for contributing to a more beautiful web 🎨 
 
 You can reach me at dolb.tanner@gmail.com or over on Twitter [@tannerdolby](https://twitter.com/tannerdolby)
 
