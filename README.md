@@ -3,7 +3,7 @@
 
 I'm a web developer who is passionate about contributing to a more beautiful web 🎨 
 
-You can reach me via dolb.tanner@gmail.com or over on Twitter [@tannerdolby](https://twitter.com/tannerdolby)
+You can reach me at dolb.tanner@gmail.com or over on Twitter [@tannerdolby](https://twitter.com/tannerdolby)
 
 <!-- 🔭 I’m currently working on building ReactJS apps and anything animation/art related ✨
 
