@@ -1,9 +1,9 @@
 ### Hi there 👋
-<img width="1080" alt="githubBanner" src="https://user-images.githubusercontent.com/48612525/87487249-fff11000-c5f1-11ea-9b16-20e2ce2d9f10.png">
+<a href="https://twitter.com/tannerdolby"><img width="1080" alt="githubBanner" src="https://user-images.githubusercontent.com/48612525/87487249-fff11000-c5f1-11ea-9b16-20e2ce2d9f10.png"></a>
 
-I'm **Tanner**. A [developer](https://codepen.io/tannerdolby) and mathematician. 
+I'm a creative web [developer](https://codepen.io/tannerdolby) and mathematician. 
 
-You can reach me at dolb.tanner@gmail.com or over on twitter [@tannerdolby](https://Twitter.com/tannerdolby)
+You can reach me via dolb.tanner@gmail.com or over on Twitter [@tannerdolby](https://twitter.com/tannerdolby)
 
 <!-- 🔭 I’m currently working on building ReactJS apps and anything animation/art related ✨
 
