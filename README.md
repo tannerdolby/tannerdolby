@@ -6,7 +6,7 @@ You can reach me at dolb.tanner@gmail.com or over on Twitter [@tannerdolby](http
 
 🔭 I’m currently working on building ReactJS apps and anything animation/art related ✨
 
-💬 Ask me about projects I've made on [Codepen.io](https://codepen.io/tannerdolby) or anything you'd like -->
+💬 Ask me about projects I've made on [Codepen.io](https://codepen.io/tannerdolby) or anything you'd like
 
 ⚡ Fun fact: I play the piano 🎹
 
