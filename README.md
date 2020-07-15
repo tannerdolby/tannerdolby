@@ -1,6 +1,6 @@
 # Hi there, I'm Tanner 👋👨‍💻
 
-I'm a web developer who loves art & design 🎨 
+I'm a web developer who loves math & design.
 
 You can reach me at dolb.tanner@gmail.com or over on Twitter [@tannerdolby](https://twitter.com/tannerdolby)
 
