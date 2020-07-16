@@ -10,7 +10,7 @@ I'm a web developer who loves math & design.
 
 ⚡ Fun fact: I play the piano 🎹
 
-Around the Web 🌎
+Find me around the Web 🌎
 * [CodePen](https://codepen.io/tannerdolby)
 * [Twitter](https://codepen.io/tannerdolby)
 * [LinkedIn](https://www.linkedin.com/in/tanner-dolby/)
