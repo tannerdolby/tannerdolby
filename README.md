@@ -6,12 +6,11 @@ I'm a web developer, mathematician and designer.
 
 🔭 I’m currently working on building ReactJS apps and anything animation/art related ✨
 
-💬 Ask me about projects I've made on [Codepen.io](https://codepen.io/tannerdolby) or anything you'd like
-
 ⚡ Fun fact: I play the piano 🎹
 
 Find me around the Web 🌎
 * [CodePen](https://codepen.io/tannerdolby)
 * [Twitter](https://codepen.io/tannerdolby)
 * [LinkedIn](https://www.linkedin.com/in/tanner-dolby/)
+
 
