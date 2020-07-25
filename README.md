@@ -1,6 +1,6 @@
-# Hi there, I'm Tanner 👋
+# Hi there, I'm Tanner! 👋
 
-I'm a web developer, mathematician and designer.
+I like to think of myself as a developer, mathematician and designer.
 
 📫 You can reach me at dolb.tanner@gmail.com or over on Twitter [@tannerdolby](https://twitter.com/tannerdolby)
 
