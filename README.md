@@ -1,6 +1,6 @@
-# Hi there, I'm Tanner! 👋
+# Hello friends
 
-A developer, mathematician and designer.
+I like to write code and build fun things. 
 
 📫 You can reach me at dolb.tanner@gmail.com or over on Twitter [@tannerdolby](https://twitter.com/tannerdolby)
 
