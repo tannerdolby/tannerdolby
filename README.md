@@ -1,10 +1,10 @@
 # Hello friends
 
-I like to write code and build fun things. 
+I like to write code and build fun things.
 
 📫 You can reach me at dolb.tanner@gmail.com or over on Twitter [@tannerdolby](https://twitter.com/tannerdolby)
 
-🔭 I’m currently working on building my website with GatsbyJS and GraphQL
+🔭 I’m currently working on building my website with Eleventy! 
 
 ⚡ Fun fact: I play the piano 🎹
 
