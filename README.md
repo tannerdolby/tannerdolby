@@ -5,7 +5,7 @@ I like to write code and build things. I’m currently working on creating my pe
 You can reach me at dolb.tanner@gmail.com or over on Twitter [@tannerdolby](https://twitter.com/tannerdolby)
 
 
-Find me around the Web 🌎
+Around the Web 🌎
 * [CodePen](https://codepen.io/tannerdolby)
 * [Twitter](https://codepen.io/tannerdolby)
 * [LinkedIn](https://www.linkedin.com/in/tanner-dolby/)
