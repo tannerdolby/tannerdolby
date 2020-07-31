@@ -1,6 +1,6 @@
 # Hello friends
 
-I like to write code and build fun things.
+I like to write code and build things.
 
 📫 You can reach me at dolb.tanner@gmail.com or over on Twitter [@tannerdolby](https://twitter.com/tannerdolby)
 
