@@ -2,10 +2,9 @@
 
 I like to write code and build things. I’m currently working on creating my personal website with Eleventy so stick around!
 
-You can reach me at dolb.tanner@gmail.com or over on Twitter [@tannerdolby](https://twitter.com/tannerdolby)
+You can reach me at dolb.tanner@gmail.com or from any of the links below.
 
-
-Around the Web 🌎
+### Around the Web 🌎
 * [CodePen](https://codepen.io/tannerdolby)
 * [Twitter](https://codepen.io/tannerdolby)
 * [LinkedIn](https://www.linkedin.com/in/tanner-dolby/)
