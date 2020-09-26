@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Tanner
 
 I like to write code and build things for the web. I'm currently focused on accessibility and optimizing page performance.
 
