@@ -8,5 +8,6 @@ You can reach me at dolb.tanner@gmail.com or from any of the links below.
 * [Twitter](https://twitter.com/tannerdolby)
 * [CodePen](https://codepen.io/tannerdolby)
 * [LinkedIn](https://www.linkedin.com/in/tanner-dolby/)
+* [Stack Overflow](https://stackoverflow.com/users/11389581/tanner-dolby)
 
 
