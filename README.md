@@ -1,6 +1,8 @@
 ## Hello!
 
-I like to write code and build things for the web. I'm currently focused on accessibility and optimizing page performance.
+I like to write code and build things for the web. I'm currently focused on learning more about accessibility guidelines, page performance and Static Site Generators (SSG).
+
+I'm also working on a browser extension 🔌
 
 You can reach me at dolb.tanner@gmail.com or from any of the links below.
 
