@@ -1,4 +1,4 @@
-## Hello!
+## Hi there!
 
 I like to write code and build things for the web. I'm currently focused on learning more about accessibility guidelines, page performance and Static Site Generators (SSG).
 
