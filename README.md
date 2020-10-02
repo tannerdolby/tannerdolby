@@ -2,7 +2,7 @@
 
 I like to write code and build things for the web. I'm currently focused on learning more about accessibility guidelines and Static Site Generators (SSG). 
 
-I'm also frequently reading and sometimes writing about HTML, CSS, JavaScript, 11ty, macOS, security, SVG, Unicode, performance.
+I'm also frequently reading and sometimes writing about HTML, CSS, JavaScript, 11ty, macOS, security, SVG, performance.
 
 You can reach me at dolb.tanner@gmail.com or from any of the links below.
 
