@@ -6,8 +6,6 @@ I'm also frequently reading and sometimes writing about HTML, CSS, JavaScript, 1
 
 I'm maintaining a small project [what-to-watch](https://github.com/tannerdolby/what-to-watch) for Hacktoberfest this year! 🎃
 
-You can reach me at dolb.tanner@gmail.com or from any of the links below.
-
 ### Around the Web 🌎
 * [Twitter](https://twitter.com/tannerdolby)
 * [CodePen](https://codepen.io/tannerdolby)
