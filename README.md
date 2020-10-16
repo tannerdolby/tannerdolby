@@ -5,3 +5,7 @@ I like to write code and build things for the web. I'm currently focused on lear
 I'm also frequently reading and sometimes writing about HTML, CSS, JavaScript, 11ty, macOS, security and performance.
 
 This year I'm maintaining a small project [what-to-watch](https://github.com/tannerdolby/what-to-watch) for Hacktoberfest! 🎃
+
+### Around the Web 🌎
+* [CodePen](https://codepen.io/tannerdolby)
+* [Stack Overflow](https://stackoverflow.com/users/11389581/tanner-dolby)
