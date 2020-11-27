@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there!
 
 I like to write code and build things for the web. I'm interested in HTML, CSS, JavaScript, accessibility, macOS, security, and web performance.
 
