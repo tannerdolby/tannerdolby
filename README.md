@@ -8,7 +8,9 @@ I'm probably writing about something on [my website](https://tannerdolby.com). H
 - [LeetCode][leetcode]
 - [CodePen][codepen]
 - [StackOverflow][stackoverflow]
+- [Chess.com][chess]
 
 [leetcode]: https://leetcode.com/gnaare/
 [codepen]: https://codepen.io/tannerdolby
 [stackoverflow]: https://stackoverflow.com/users/11389581/tanner-dolby
+[chess]: https://www.chess.com/member/tannerdolby
