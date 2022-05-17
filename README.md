@@ -4,7 +4,7 @@ I'm Tanner. A mathematician with an interest in technology. I like playing chess
 
 I'm probably writing about something on [my website](https://tannerdolby.com). Have a look!
 
-![Scene from the television series Adventure Time featuring the two main characters making a joke about being bad at math](https://user-images.githubusercontent.com/48612525/168717990-deb85807-7916-40b4-bf7d-603f49afeffc.png)
+![Scene from the television series Adventure Time featuring the two main characters making a joke about being bad at math](https://user-images.githubusercontent.com/48612525/168856825-2f06a88c-1298-4cb7-8aaf-4f5d9ea84c48.png)
 
 ### Around the web
 - [CodePen][codepen]
