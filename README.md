@@ -1,6 +1,6 @@
-## hey there!
+## Hi there!
 
-I'm Tanner. A mathematician with an interest in technology. I like playing chess, skateboarding, and building things for the web. I'm interested in JavaScript, HTML, CSS, Node, TypeScript, Python, C++, and Java.
+I'm Tanner. A mathematician with an interest in technology. I like playing chess, skateboarding, and building things for the web. I'm interested in JavaScript, HTML, CSS, TypeScript, Python, C++, and Java.
 
 I'm probably writing about something on [my website](https://tannerdolby.com). Have a look!
 
