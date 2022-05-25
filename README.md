@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm a mathematician with an interest in technology. I like playing chess, skateboarding, and building things for the web. I'm interested in JavaScript, HTML, CSS, Node, Python, C++, and Java.
+I'm a mathematician with an interest in technology. I like playing chess, skateboarding, and building things for the web. I'm interested in JavaScript, Python, HTML, CSS, Node, C++, and Java.
 
 I'm probably writing about something on [my website](https://tannerdolby.com). Have a look!
 
