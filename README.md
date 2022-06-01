@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there! 👋
 
 I'm a mathematician with an interest in technology. I like playing chess, skateboarding, and building things for the web. I'm interested in Python, JavaScript, HTML, CSS, Java, and C++.
 
