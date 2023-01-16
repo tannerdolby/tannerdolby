@@ -9,6 +9,6 @@ I'm probably writing about something on [my website](https://tannerdolby.com). H
 - [StackOverflow][stackoverflow]
 - [LeetCode][leetcode]
 
-[leetcode]: https://leetcode.com/gnaare/
+[leetcode]: https://leetcode.com/gnawlix/
 [codepen]: https://codepen.io/tannerdolby
 [stackoverflow]: https://stackoverflow.com/users/11389581/tanner-dolby
