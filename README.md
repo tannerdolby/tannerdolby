@@ -4,7 +4,7 @@ I'm a mathematician with an interest in technology. I like solving problems, pla
 
 I'm probably writing about something on [my website](https://tannerdolby.com). Have a look!
 
-[codepen][codepen] / [stackoverflow][stackoverflow] / [leetcode][leetcode]
+[codepen][codepen] ▫ [stackoverflow][stackoverflow] ▫ [leetcode][leetcode]
 
 [leetcode]: https://leetcode.com/gnawlix/
 [codepen]: https://codepen.io/tannerdolby
