@@ -6,6 +6,6 @@ I'm probably writing about something on [my website](https://tannerdolby.com). H
 
 [codepen][codepen] ▫ [stackoverflow][stackoverflow] ▫ [leetcode][leetcode]
 
-[leetcode]: https://leetcode.com/gnawlix/
+[leetcode]: https://leetcode.com/t0n/
 [codepen]: https://codepen.io/tannerdolby
 [stackoverflow]: https://stackoverflow.com/users/11389581/tanner-dolby
