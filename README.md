@@ -1,8 +1,6 @@
-**Hi there!** 👋
+Hi there! 👋
 
 I'm a mathematician with an interest in technology. I like solving problems, playing chess, and building things for the web. I'm interested in JavaScript, HTML, CSS, Node.js, React, and Python.
-
-I'm probably writing about something on [my website](https://tannerdolby.com). Have a look!
 
 [codepen][codepen] ▫ [stackoverflow][stackoverflow] ▫ [leetcode][leetcode]
 
