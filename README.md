@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm a mathematician with an interest in technology. I like solving problems, playing chess, and building things for the web. I'm interested in JavaScript, Python, Node.js, React, HTML, CSS, and 11ty.
+I'm a mathematician with an interest in technology. I like solving problems, playing chess, and building things for the web. I'm interested in JavaScript, Python, C++, Node.js, React, HTML, CSS, and 11ty.
 
 [codepen][codepen] ▫ [stackoverflow][stackoverflow] ▫ [leetcode][leetcode]
 
